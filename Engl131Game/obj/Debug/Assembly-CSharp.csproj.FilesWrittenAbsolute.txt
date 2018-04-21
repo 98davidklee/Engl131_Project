@@ -27,3 +27,34 @@
 /Users/kihoon98/Desktop/Engl131_Game/Engl131Game/Temp/bin/Debug/Assembly-CSharp.dll
 /Users/kihoon98/Desktop/Engl131_Game/Engl131Game/obj/Debug/Assembly-CSharp.dll
 /Users/kihoon98/Desktop/Engl131_Game/Engl131Game/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/obj/Debug/Assembly-CSharp.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEditor.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/nunit.framework.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.Cecil.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/kihoonlee/Documents/Computer Science/Game Development/Unity/Projects/Engl131_Project/Engl131Game/Temp/bin/Debug/Assembly-CSharp.dll
