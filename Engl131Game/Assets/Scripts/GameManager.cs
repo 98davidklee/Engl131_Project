@@ -1,4 +1,4 @@
-﻿// GameManager prompts an user true of false questions and examines whether an user is a true fan of soccer.
+﻿// GameManager prompts an user true of false questiond and examines whether an user is a true fan of soccer.
 
 using System.Collections;
 using System.Collections.Generic;
@@ -11,55 +11,59 @@ using UnityEngine.EventSystems;
 public class GameManager : MonoBehaviour {
 	// The total points of an user.
 	private int totalPoint; 
-	// The questions to ask.
-	private TextAsset scanner;
-	// The answers to the questions.
-	private TextAsset answers;
+	// The question to ask.
+	public TextAsset question;
+	// The answers to the question.
+	public TextAsset answers;
 	// The question number that keeps track of the order of the questions.
 	private int number;
 	// The question number displayed in the game.
 	public Text questionNum;
 	// The question displayed in the game.
-	public Text question;
-	private string[] temp;
+	public Text questionText;
+	// The list that keeps track of questions to ask.
+	private string[] questionList;
+	// The list that keeps track of answers to the questions.
+	private bool[] answerList;
 
 	/*
 	* Post: Constructs the GameManager with questions and answers.
 	*/
 	private void Start () 
 	{
-		number = 1;
+		number = 0;
 		totalPoint = 0;
-		questionNum.text = number + " / 20";
-		scanner = File.OpenText ("questions.txt");
-		question.text = scanner.ReadLine ();
-		answers = File.OpenText ("answers.txt");
-		temp = scanner.text.Split('\n');
-		print(temp[3]);
+		questionNum.text = number + 1 + " / 20";
+		questionList = question.text.Split ('\n');
+		string[] temp = answers.text.Split ('\n');
+		answerList = new bool[temp.Length];
+		for (int i = 0; i < temp.Length; i++) {
+			answerList [i] = Convert.ToBoolean(temp [i]);
+		}
 	}
 
 	/*
 	* Post: Increments the total points by 5 points if user guesses the question correctly and then prompts next question to an user. 
-	*		If an user answered all the questions, the game shows an result to an user. 
+	*		If an user answered all the question, the game shows an result to an user. 
 	*/
 	public void TrueOrFalse (bool choice)
 	{
 		EventSystem.current.SetSelectedGameObject (null);
-		if (number == 20) {
-			if (Convert.ToBoolean (answers.ReadLine ()) == choice) {
+		if (number == 19) {
+			if (answerList[number] == choice) {
 				totalPoint += 5;
 			}
 			GameObject.Find ("True Button").SetActive (false);
 			GameObject.Find ("False Button").SetActive (false);
-			questionNum.text = "Result:";
-			question.text = "Your total score is: " + totalPoint + "\n\n" + gameMessage();
+			questionNum.text = "\nResult:";
+			questionText.text = "Your total score is: " + totalPoint + "\n\n" + gameMessage();
 		} else {
-			if (Convert.ToBoolean (answers.ReadLine ()) == choice) {
+			if (answerList[number] == choice) {
 				totalPoint += 5;
 			}
 			number++;
-			questionNum.text = number + " / 20";
-			question.text = scanner.ReadLine ();
+			questionNum.text = number + 1 + " / 20";
+			questionText.text = questionList [number];
 		}
 	}
 

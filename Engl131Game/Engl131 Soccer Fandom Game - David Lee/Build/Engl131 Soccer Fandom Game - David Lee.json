@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Engl131Game",
+"dataUrl": "Engl131 Soccer Fandom Game - David Lee.data.unityweb",
+"asmCodeUrl": "Engl131 Soccer Fandom Game - David Lee.asm.code.unityweb",
+"asmMemoryUrl": "Engl131 Soccer Fandom Game - David Lee.asm.memory.unityweb",
+"asmFrameworkUrl": "Engl131 Soccer Fandom Game - David Lee.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
