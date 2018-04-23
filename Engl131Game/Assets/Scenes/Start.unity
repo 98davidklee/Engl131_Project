@@ -331,7 +331,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Welcome to the Game of Soccer Fandom!
 
-    Play the game and know whether you are a true fan of soccer!'
+    Play the game and check whether you are a true fan of soccer!'
 --- !u!222 &177810798
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -453,7 +453,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.65852076, g: 0.70267445, b: 0.77205884, a: 0}
+  m_BackGroundColor: {r: 0.99264705, g: 0.8028763, b: 0.93244386, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
